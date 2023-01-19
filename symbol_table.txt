@@ -1,0 +1,11 @@
+(int) a 
+(int) b 
+(float) u = 0.000000
+(char) w = "abcde"
+(char) w2 = 'h'
+(int) watermelon 
+(int) g 
+(int) h 
+(char) t1 
+(char) t 
+(array) arr = { 10, 11, 12 }

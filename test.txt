@@ -1,0 +1,74 @@
+int a;
+int b;
+
+float u=4.598;
+
+char w="abcde";
+char w2='h';
+
+
+int function(int parametru,float parametru2)
+{
+    a=a;
+}
+bool altaFunctie() {b=b;}
+
+void functieVoid(char a)
+{
+    int watermelon;
+}
+
+int function404notfound(int a)
+{
+    int g;
+}
+
+int functieCuArray(array u)
+{
+    int h;
+}
+
+class obiecte
+{
+    private int c;
+    public
+    {
+        char t1;
+    };
+}
+
+
+
+begin_p
+a=7;
+char t;
+if(a==b)
+{
+    a=5;
+}
+else
+{
+    b=5;
+}
+array arr = {10,11,12};
+
+Eval(29);
+
+while(b<a)
+{
+    if((a<b) && (b>a))
+    {
+        a=b;
+    }
+}
+for(int i=1;i<9;i++)
+{
+    a=0;
+}
+
+functie();
+incaUnApelDeFunctie(a,b);
+
+obiecte.a;
+obiecte.functie(a);
+end_p

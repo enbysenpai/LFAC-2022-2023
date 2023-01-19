@@ -1,0 +1,6 @@
+(int) function ((int) parametru , (float) parametru2 ) 
+(bool) altaFunctie
+(void) functieVoid ((char) a )
+(int) function404notfound ((int) a ) 
+(int) functieCuArray ((array) u ) 
+Eval (29) 
